@@ -1,6 +1,6 @@
 @echo off
 :Start
-set /p FolderName="Enter the folder name: "
+set /p FolderName="Enter the folder path: "
 if exist "%FolderName%" (
     icacls "%FolderName%" >nul 2>&1
     if errorlevel 1 (
