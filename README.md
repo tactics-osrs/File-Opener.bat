@@ -23,5 +23,6 @@ The `Folder Opener` is a simple batch script that allows you to open folders fro
   
 - If the folder is opened successfully, the script will display the message "The folder 'foldername' was successfully opened."
 - Example.
- ![image](https://github.com/tactics-osrs/Folder-Opener.bat/assets/76490725/47f75b44-1d9e-49ba-92ab-b4e5d248f072)
+ ![image](https://github.com/tactics-osrs/Folder-Opener.bat/assets/76490725/dcb69dce-50e4-483b-ae38-8060d55ea1fd)
+
 
