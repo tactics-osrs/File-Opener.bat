@@ -15,7 +15,7 @@ The `Folder Opener` is a simple batch script that allows you to open folders fro
 
 
   
-- If you do not have the necessary permissions to open the folder, the script will display the message "You need elevated privileges to open this folder."
+- If you do not have the necessary permissions to open the folder, the script will display the message "You need elevated privileges to open this folder." (Usually meaning Admin rights req.)
 - Example.
  ![image](https://github.com/tactics-osrs/Folder-Opener.bat/assets/76490725/6119c073-9528-4e27-b923-305c192934b6)
 
