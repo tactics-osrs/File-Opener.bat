@@ -11,7 +11,7 @@ The `Folder Opener` is a simple batch script that allows you to open folders fro
 ## Notes
 - If the folder does not exist, the script will display the message "The folder does not exist."
 - 
-  ex. ![image](https://github.com/tactics-osrs/Folder-Opener.bat/assets/76490725/b9cd1a97-8c91-4a57-ad53-a08a9bac3f01)
+ex. ![image](https://github.com/tactics-osrs/Folder-Opener.bat/assets/76490725/b9cd1a97-8c91-4a57-ad53-a08a9bac3f01)
 
 
   
